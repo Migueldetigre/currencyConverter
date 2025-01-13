@@ -34,6 +34,5 @@ $ Una computadora (no está soportado aún la ejecución en dispositivos celular
 
 Puede contactarme en los siguientes medios:
 
-[Linkedin](https://www.linkedin.com/in/mariano-maldonado-810847288)<br>
 [Alura](https://app.aluracursos.com/user/cyberwargamesproductions)<br>
  E-mail cyberwargamesproductions@gmail.com
